@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/elearnbd/static/css/main.8351059d.chunk.css",
+    "main.css": "/elearnbd/static/css/main.931efd7d.chunk.css",
     "main.js": "/elearnbd/static/js/main.0b69e413.chunk.js",
     "main.js.map": "/elearnbd/static/js/main.0b69e413.chunk.js.map",
     "runtime-main.js": "/elearnbd/static/js/runtime-main.587ca90c.js",
@@ -10,13 +10,13 @@
     "static/js/3.d89f02bd.chunk.js": "/elearnbd/static/js/3.d89f02bd.chunk.js",
     "static/js/3.d89f02bd.chunk.js.map": "/elearnbd/static/js/3.d89f02bd.chunk.js.map",
     "index.html": "/elearnbd/index.html",
-    "static/css/main.8351059d.chunk.css.map": "/elearnbd/static/css/main.8351059d.chunk.css.map",
+    "static/css/main.931efd7d.chunk.css.map": "/elearnbd/static/css/main.931efd7d.chunk.css.map",
     "static/js/2.4783c8e5.chunk.js.LICENSE.txt": "/elearnbd/static/js/2.4783c8e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.587ca90c.js",
     "static/js/2.4783c8e5.chunk.js",
-    "static/css/main.8351059d.chunk.css",
+    "static/css/main.931efd7d.chunk.css",
     "static/js/main.0b69e413.chunk.js"
   ]
 }
